@@ -4,4 +4,4 @@ var age = 20;
 alert(firstname);
 alert(lastname);
 alert(age);
-alert("Hello Talat Perveen you are 20 years old");
+alert("Hello"+" "+firstname+" " + lastname+ " "+ "you are" +" " +age+ " "+ "years old");
